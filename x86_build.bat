@@ -1,0 +1,3 @@
+Add MD5 to the build etc...
+dalsi radka
+dalsi radka2
